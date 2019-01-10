@@ -1,0 +1,140 @@
+@font-face {font-family:ps;src: url(fonts/ProductSans-Regular.ttf);}
+
+
+
+#ukebako-page-4-0{
+
+margin-top:170px;
+
+background:url(pics/cubg.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow: 20px 20px 20px grey;
+}
+#header-page-4
+{
+color:white;
+text-align:center;
+margin-top:20px;
+font-family:ps;
+font-size:40px;
+}
+#ukebako-page-4-1{
+height:400px;
+font-weight:bolder;
+text-align: center;
+font-family:sg;
+color:black;
+font-size: 50px;
+background-color:transparent;
+opacity:1;
+
+	
+
+}
+
+.page-4-button{
+height:35px;
+width:150px;
+font-size:25px;
+color:white;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:30px;
+/*margin-right:auto;
+margin-left:auto;*/
+border-radius:5px;
+ }
+.page-4-button:hover
+{
+
+color:#fc1501;
+
+}
+#page-4-button-1
+{
+margin-left:100px;
+}
+#page-4-button-2
+{
+margin-left:300px;
+}
+#page-4-button-3
+{
+margin-left:550px;
+}
+#page-4-button-4
+{
+margin-left:800px;
+}
+#page-4-button-5
+{
+margin-left:1000px;
+}
+#image{
+height:300px;
+width:300px;
+-webkit-transform: rotate(320deg);
+    -moz-transform: rotate(320deg);
+    -o-transform: rotate(320deg);
+    -ms-transform: rotate(320deg);
+    transform: rotate(320deg);
+margin-top:-220px;
+}
+
+
+
+.page-4-button a{
+text-decoration:none;
+color:white;
+ height: 35px;
+width: 165px;
+display:block;
+margin-top:-10px;
+padding-top:7px;
+padding-right:-30px;
+margin-left:-5px;
+-webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+-ms-transition: color 1s ease-out;
+transition: color 1s ease-out;
+}
+.page-4-button:hover a
+{
+color:#fc1501;
+}
+
+#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 10px 10px 5px black;
+
+}
+#shoot-out a
+{text-decoration:none; color:white;}
+
+}
+

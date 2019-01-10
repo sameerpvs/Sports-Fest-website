@@ -1,0 +1,129 @@
+
+@font-face {font-family:ps;src: url(fonts/ProductSans-Regular.ttf);}
+
+/*{
+border:2px solid green;
+}*/
+	
+html{
+/*background: url(pics/stadium.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  background-color:#eee9e9;
+}
+.ukebako{
+display:inline-block;
+
+width:1240px;
+
+}
+#wrapper{
+margin-left:auto;
+margin-right:auto;
+width:1240px;
+border:none;
+}
+#wrapper-h{
+margin-left:auto;
+margin-right:auto;
+width:1240px;
+border:none;
+	}
+
+#header
+{
+height:150px;
+width:100%;
+position:fixed;
+left:0;
+top:0;
+opacity :1.0;
+z-index:100;
+background-color:black;
+}
+
+#magic{
+padding-top:10px;
+text-align:center;
+width:500px;
+color:white;
+font-family:ps;
+font-size:50px;
+margin-left:auto;
+margin-right:auto;
+/*For color change*/
+-webkit-transition: color 1s ease-out;
+ -moz-transition: color 1s ease-out;
+ -o-transition: color 1s ease-out;
+ -ms-transition: color 1s ease-out;
+ transition: color 1s ease-out;
+}
+#magictag{
+width:600px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+font-family:ps;
+font-size:20px;
+margin-top:-30px;
+margin-left:550px;
+color:white;
+
+}
+#tag{
+color:white;
+/*For color change*/
+-webkit-transition: color 1s ease-out;
+ -moz-transition: color 1s ease-out;
+ -o-transition: color 1s ease-out;
+ -ms-transition: color 1s ease-out;
+ transition: color 1s ease-out;
+
+}
+#header:hover #tag
+{
+color:#fc1501;
+}
+span{
+color:#fc1501;
+
+/*For color change*/
+-webkit-transition: color 1s ease-out;
+ -moz-transition: color 1s ease-out;
+ -o-transition: color 1s ease-out;
+ -ms-transition: color 1s ease-out;
+ transition: color 1s ease-out;
+}
+#sports{
+color:white
+}
+#header:hover #magic{
+color:#fc1501;
+
+}
+#header:hover span{
+color:white;
+}
+#header:hover #sports{
+color:white;
+}
+
+#hd2{
+height:90px;
+width:425px;
+margin-top:-250px;
+margin-bottom:60px;
+margin-left:5px;
+}
+
+#hd1{
+height:96px;
+width:261px;
+margin-top:-230px;
+margin-bottom:70px;
+margin-left:1025px;
+
+}
+

@@ -1,0 +1,55 @@
+
+#ukebako-page-6-0
+{
+background-color:transparent;
+opacity:0.9;
+height:900px;
+box-shadow: 5px 5px 5px 5px grey;
+margin-top:170px;
+}
+#ukebako-page-6-0 h1{
+font-family:ps;
+font-size:40px;
+color:black;
+
+text-align:center;
+}
+
+#ukebako-page-6-0 img{
+
+height:700px;
+width:900px;
+margin-left:160px;
+margin-top:40px;
+border:10px solid white;
+
+}
+#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:20px;
+margin-right:auto;
+margin-left:auto;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 10px 10px 5px black;
+
+}
+#shoot-out a
+{text-decoration:none; color:white;}
+
+}
+

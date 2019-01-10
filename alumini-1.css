@@ -1,0 +1,222 @@
+.image {
+    /*margin: 5px;
+    padding: 5px;*/
+    /*border: 3px solid black;*/
+    height: 250px;
+    width: 320px;
+	margin-top:80px;
+	margin-left:100px;
+    float: left;
+    text-align: center;
+	align:center;
+	box-shadow:2px 2px 2px grey;
+	
+}	
+#galler{
+	box-shadow:20px 20px 20px 20px grey;
+	background-color:transparent;
+	height:1450px;
+	margin-top:150px;
+	width:1300px;
+	
+	
+}
+#galler h1{
+font-family:ps;
+font-size:40px;
+text-align:center;
+color:black;
+}
+/*(.image1{
+   /*margin: 5px;
+    padding: 5px;
+    border: 0px solid #0000ff;
+    height: 200px;
+    width: 280px;
+	margin-top:20px;
+	margin-left:250px;
+    float: left;
+    text-align: center;
+	}*/
+.image img { 
+    display: inline;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+	height: 100%;
+    width: 100%;
+}
+.image:hover { 
+    opacity:0.6;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    box-shadow:2px 2px 2px grey;
+	/*height: 20px;
+    width: 20px;*/
+}
+/*.image:hover { 
+    /*display: inline;*/
+    /*margin: 5px;
+    border: 0px solid #ffffff;
+	height: 20px;
+    width: 20px;
+	size:70%;
+}*/
+/*.image1 img { 
+    display: inline;
+    /*margin: 5px;
+    border: 0px solid #ffffff;
+	height: 100%;
+    width: 100%;
+}*/
+#ukebako-page-slide
+{
+background-color:transparent no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow:20px 20px 20px 20px grey;
+height:1300px;
+margin-top:150px;
+}	
+.image1{
+    /*margin: 5px;
+    padding: 5px;*/
+    /*border: 3px solid black;*/
+    height: 250px;
+    width: 320px;
+	margin-top:60px;
+	margin-left:100px;
+    float: left;
+    text-align: center;
+	align:center;
+	box-shadow:5px 5px 5px grey;
+	
+}	
+.image1 img { 
+    display: inline;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    height: 100%;
+    width: 100%;
+}
+.image1:hover { 
+    opacity:0.6;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    /*height: 20px;
+    width: 20px;*/
+}
+.image2 {
+    /*margin: 5px;
+    padding: 5px;*/
+    /*border: 3px solid black;*/
+    height: 250px;
+    width: 320px;
+	margin-top:60px;
+	margin-left:100px;
+    float: left;
+    text-align: center;
+	align:center;
+	box-shadow:2px 2px 2px grey;
+	
+}	
+.image2 img { 
+    display: inline;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    height: 100%;
+    width: 100%;
+}
+.image2:hover { 
+    opacity:0.6;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    /*height: 20px;
+    width: 20px;*/
+}
+.image3 {
+    /*margin: 5px;
+    padding: 5px;*/
+    /*border: 3px solid black;*/
+    height: 250px;
+    width: 320px;
+    margin-top:60px;
+    margin-left:100px;
+    float: left;
+    text-align: center;
+    align:center;
+    box-shadow:2px 2px 2px grey;
+    
+}   
+
+.image3 img { 
+    display: inline;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    height: 100%;
+    width: 100%;
+}
+.image3:hover { 
+    opacity:0.6;
+    /*margin: 5px;*/
+    border: 0px solid #ffffff;
+    /*height: 20px;
+    width: 20px;*/
+}
+/*.image4 {
+    /*margin: 5px;
+    padding: 5px;*/
+    /*border: 3px solid black;
+    height: 250px;
+    width: 320px;
+    margin-top:60px;
+    margin-left:100px;
+    float: left;
+    text-align: center;
+    align:center;
+    box-shadow:2px 2px 2px grey;
+    
+}   
+
+.image4 img { 
+    display: inline;
+    /*margin: 5px;
+    border: 0px solid #ffffff;
+    height: 100%;
+    width: 100%;
+}
+.image4:hover { 
+    opacity:0.6;
+    /*margin: 5px;
+    border: 0px solid #ffffff;
+    /*height: 20px;
+    width: 20px;
+}*/
+#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:10px;
+margin-right:auto;
+margin-left:620px;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 20px 20px 20px 20px grey;
+
+}
+#shoot-out a
+{text-decoration:none; color:white;}
+

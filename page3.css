@@ -1,0 +1,117 @@
+@font-face {
+font-family:ps; 
+src: url(fonts/ProductSans-Regular.ttf);
+font-family:al;
+src:url(fonts/Aclonica-regular.ttf);
+font-family:af;
+src:url(fonts/Almendra700italic-regular.ttf);
+}
+
+
+
+
+	
+#ukebako-page-3-0
+{
+
+background-color:transparent;
+background:url(pics/about3.jpg) no-repeat ;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   box-shadow: 20px 20px 20px grey;
+opacity:1;
+height:500px;
+margin-top:170px;
+}
+#ukebako-page-3-0 h1{
+color:white;
+font-size:50px;
+text-align:center;
+font-family:ps;
+/*margin-left:30px;*/
+}
+
+#ukebako-page-3-0 #h4{
+color:white;
+font-size:25px;
+font-family:ps;
+text-indent:20px;
+
+
+}
+#ukebako-page-3-0 p{
+color:black;
+font-weight:bold;
+font-size:17px;
+font-family:ps;
+text-align:justify;
+line-height:48px;
+/*margin-left:30px;*/
+}
+.ukebako-page-3
+{
+display:inline-block;
+width:24%;
+height:520px;
+box-shadow: 10px 10px 5px grey;
+background-color:rgba(0,0,0,0.9);
+margin-top:30px;
+margin-left:5px;
+vertical-align:top; /*<---very Important*/
+
+}
+
+
+.bass{
+font-family:ps;
+font-weight:bolder;
+font-size:20px;
+color:white;
+text-align:center;
+margin-top:5px;
+}
+ p{
+font-size:14px;
+color:white;
+margin-left:5px;
+font-family:ps;
+margin-top:20px;
+}
+#img-frame{
+  height:150px; 
+width:150px;
+margin-left:70px;
+border:5px solid white;
+box-shadow: 5px 5px 5px black;
+ }
+#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:20px;
+margin-right:auto;
+margin-left:auto;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 10px 10px 5px black;
+
+}
+#shoot-out a
+{text-decoration:none; color:white;}
+
+}
+	  

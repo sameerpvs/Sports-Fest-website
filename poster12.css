@@ -1,0 +1,97 @@
+
+@font-face {
+font-family:ps; 
+src: url(fonts/ProductSans-Regular.ttf);
+}
+/*.ukebako{
+display:inline-block;
+width:1240px;
+
+}
+#wrapper{
+margin-left:auto;
+margin-right:auto;
+width:1240px;
+}*/
+
+/*html{
+background: url(pics/.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+#ukebako-page-12-0
+{
+/*background-color:black;
+opacity:0.9;
+height:500px;
+
+margin-top:150px;*/
+height:500px;
+font-weight:bolder;
+margin-top:170px;
+text-align: center;
+font-family:sg;
+color:black;
+font-size: 50px;
+background: url(pics/back2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow:20px 20px 20px grey;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow:40px 40px 20px 20px grey;
+}
+#ukebako-page-12-0 h1{
+font-family:ps;
+font-size:30px;
+color:white;
+border-top:2px solid white;
+border-bottom:2px solid #fc1501;
+text-align:center;
+}
+
+#ukebako-page-12-0 img{
+
+height:700px;
+width:700px;
+/*margin-left:160px;
+margin-top:40px;*/
+width: 100%;
+border:10px solid white;
+}
+
+#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:20px;
+margin-right:auto;
+margin-left:auto;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 10px 10px 5px black;
+}
+
+#shoot-out a{
+text-decoration:none;
+color:white;
+}

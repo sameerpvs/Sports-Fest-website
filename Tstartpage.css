@@ -1,0 +1,139 @@
+@font-face {font-family:basic;src: url(fonts/basictitlefont.ttf);}
+@font-face {font-family:ps;src: url(fonts/ProductSans-Regular.ttf);}
+	/*{
+border:1px solid red;
+	}*/
+		.rotate {
+    -webkit-transform: rotate(320deg);
+    -moz-transform: rotate(320deg);
+    -o-transform: rotate(320deg);
+    -ms-transform: rotate(320deg);
+    transform: rotate(320deg);
+}
+		#wrapper{
+margin-left:auto;
+margin-right:auto;
+width:1200px;
+}
+
+#agi{
+position:relative;
+left:700px;
+top:-45px;
+height:170px;
+width:150px;
+	}
+#agisp{
+height:150px;
+width:150px;
+margin:20px 0px 30px 0px;
+	}
+#header-entry
+{
+margin-top:-220px;
+
+}
+#bgimage{
+	background: url(pics/o-abstract-1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+img{
+margin-bottom:-25px;
+margin-top:20px;
+padding-bottom:20px;
+	}
+h2{
+font-family:ps;
+color:black;
+font-size:100px;
+text-align:center;
+margin-top:-10px;
+}
+
+.small{
+	font-family:ps;
+font-size:15px;
+color:black;
+text-align:center;
+
+}
+.big{
+font-family:ps;
+font-size:30px;
+color:black;
+text-align:center;
+}
+
+
+ a{
+text-decoration:none;
+color:white;
+ }
+#fill{
+ height: 35px;
+width: 165px;
+display:block;
+margin-top:-10px;
+padding-top:10px;
+padding-right:-30px;
+margin-left:-5px;
+
+
+ }
+#forblur{
+height:1000px;
+width:1000px;
+/*background-color:#B7CEEC;
+opacity:0.4;
+margin:auto;
+-webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);*/
+	z-index:-1;
+
+}
+#ukebako-entry{
+color:white;
+margin:auto;
+
+height:100%;
+width:1000px;
+z-index:100;
+
+
+}
+#checkin{
+height:35px;
+width:150px;
+background-color:#fc1501;
+font-size:25px;
+color:white;
+text-align:center;
+border-radius:5px;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin:auto;
+margin-right:-40px;
+margin-top:-150px;
+
+
+}
+#checkin:hover
+{
+background-color:white;
+box-shadow: 10px 10px 5px #fc1501;
+
+}
+#checkin:hover a
+{
+
+color:#fc1501;
+}
+

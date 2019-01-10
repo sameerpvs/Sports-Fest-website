@@ -1,0 +1,218 @@
+
+@font-face {
+font-family:ps; 
+src: url(fonts/ProductSans-Regular.ttf);
+}
+th, td {
+    color:black;
+    border-bottom: 1px solid #eee;
+    padding: 10px 35px;
+    border-collapse: collapse;
+background-color:white;
+font-family:ps;
+text-align: center;
+
+
+}
+th {
+    background:#00cccc;
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+#womtable th{
+background-color:#ffc0cb;
+}
+#womtable{
+border-bottom: 5px solid #ffc0cb;
+}
+
+#tab2 table {
+   font-family:ps;
+margin-left:auto;
+margin-right:auto;
+  width: 900px;
+  align:center;
+  border-collapse: collapse;
+  border: 1px solid #eee;
+  border-bottom: 2px solid #00cccc;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.10),
+     0px 10px 20px rgba(0,0,0,0.05),
+     0px 20px 20px rgba(0,0,0,0.05),
+     0px 30px 20px rgba(0,0,0,0.05);
+   
+
+}
+
+
+
+/*#ukebako-page-13-0 h1{
+font-family:ps;
+font-size:30px;
+color:black;
+text-align:center;
+}
+/*
+.ukebako{
+display:inline-block;
+width:1240px;
+
+}
+#wrapper{
+margin-left:auto;
+margin-right:auto;
+width:1240px;
+}
+
+html{
+background: url(pics/.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+#ukebako-page-14-0
+{
+background-color:none;
+font-family:ps;
+background-color:transparent no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow:20px 20px 20px 20px grey;
+margin-top:170px;
+text-align:center;
+
+}
+/* h1 h2{
+font-family:ps;
+font-size:30px;
+border-top:2px solid white;
+border-bottom:2px solid #fc1501;
+text-align:center;
+}*/
+/*background-color:transparent no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow:20px 20px 20px 20px grey;
+*/
+/*#ukebako-page-13-0 {
+font-family:ps;
+font-size:30px;
+/*border-top:2px solid white;
+border-bottom:2px solid #fc1501;
+text-align:center;
+}*/
+
+/*#ukebako-page-2k13
+{
+  display: inline-table;
+  font-weight: bolder;
+margin-top:150px;
+text-align: center;
+font-family: sg;
+color: black;
+align:center;
+height:500px;
+font-size: 50px;
+background-color:transparent no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow:20px 20px 20px 20px grey;
+
+}*/
+/*#ukebako-page-13-0 img{
+
+/*height:700px;
+width:900px;
+margin-left:160px;
+margin-top:40px;
+width: 100%;
+border:10px solid white;
+
+}*/
+
+/*#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:50px;
+margin-right:auto;
+margin-left:auto;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 10px 10px 5px black;
+}
+
+a{
+text-decoration:none;
+color:white;
+ width: 100%;
+display:block;
+margin-top:-10px;
+padding-top:7px;
+padding-right:-30px;
+margin-left:-5px;
+}*/
+
+/*table {
+
+  font-family:ps;
+  margin: 50px;
+  width: 500px;
+  align:center;
+  border-collapse: collapse;
+  border: 1px solid #eee;
+  border-bottom: 2px solid #00cccc;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.10),
+     0px 10px 20px rgba(0,0,0,0.05),
+     0px 20px 20px rgba(0,0,0,0.05),
+     0px 30px 20px rgba(0,0,0,0.05);
+     float: left;
+}*/
+#shoot-out{
+color:white;
+background-color:black;
+height:35px;
+width:150px;
+font-size:25px;
+text-align:center;
+padding: 10px 10px 0px 5px;
+font-family:ps;
+font-weight:bolder;
+margin-top:20px;
+margin-right:auto;
+margin-left:auto;
+border-radius:5px;
+
+}
+#shoot-out:hover a{
+color:black;
+}
+#shoot-out:hover{
+background-color:white;
+box-shadow: 10px 10px 5px black;
+
+}
+#shoot-out a
+{text-decoration:none; color:white;}
+
+}
+	  

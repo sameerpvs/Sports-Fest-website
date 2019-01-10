@@ -1,0 +1,23 @@
+@font-face{font-family:bs;src:url('fonts/BRLNSR.TTF');}
+
+#elegance {
+  
+  font-size: 120px;
+  padding: 100px 50px;
+  text-align: center;
+  
+  text-rendering: optimizeLegibility;
+  font-family:bs;
+
+  
+    
+    color:white;
+    background-color:none;
+   
+    text-shadow: 
+      3px 3px 3px #f5ab00,
+      4px 4px 4px #f5ab00;
+  
+}
+
+/*#d2063b*/
